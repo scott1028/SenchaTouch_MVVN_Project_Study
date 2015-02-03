@@ -8,3 +8,7 @@
             // "platforms": "ios android",
             "platforms": "android",
     4. python -m SimpleHTTPServer
+
+## Reference
+
+    1. http://www.sencha.com/products/touch/license/ - GPL Download
